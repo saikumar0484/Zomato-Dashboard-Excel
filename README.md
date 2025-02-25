@@ -22,7 +22,7 @@ This project is an **Excel dashboard** analyzing **Zomato data**, showcasing ins
 3. Explore the dashboard and insights.  
 
 ## 🔗 Repository Link
-[GitHub Repository](https://github.com/saikumar0484/Zomato-Dashboard-Excel)
+[GitHub Repository](https://github.com/saikumar0484/Zomato-Dashboard-Excel/tree/main/Zomato%20Excel%20Dasboard)
 
 ## 👨‍💻 Author
 **Rayala Sai Kumar**  
