@@ -28,3 +28,7 @@ This project is an **Excel dashboard** analyzing **Zomato data**, showcasing ins
 **Rayala Sai Kumar**  
 
 Feel free to ⭐ this repository if you find it useful! 🚀
+
+
+Dashboard Image:
+
