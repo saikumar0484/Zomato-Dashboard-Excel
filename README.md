@@ -32,4 +32,4 @@ Feel free to ⭐ this repository if you find it useful! 🚀
 
 Dashboard Image:
 
-![Zomato Dashboard] https://github.com/saikumar0484/Zomato-Dashboard-Excel/blob/389b8c13dc2a30573f26a0b31ab3de230e6de008/Zomato%20Dashboard%20Img.png
+![Zomato Dashboard](https://github.com/saikumar0484/Zomato-Dashboard-Excel/blob/389b8c13dc2a30573f26a0b31ab3de230e6de008/Zomato%20Dashboard%20Img.png)
